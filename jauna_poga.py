@@ -1,2 +1,7 @@
 import requests
-def
+
+def __init__(self):
+    
+    pass
+
+#izmainas
